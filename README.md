@@ -22,20 +22,7 @@
 ----
 
 <p align="center">
-<b>𝐂𝐎𝐍𝐓𝐄𝐂𝐓 𝐌𝐄</b>
-</p>
 
-<p align="center">
-  <a href="https://www.facebook.com/mrk.yt.507" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="muhammed-facebook" />
-  </a>
-  <a href="https://www.youtube.com/c/motech_yt" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="muhammed-youtube" />
-  </a>
-  <a href="https://instagram.com/mrk_yt_" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="muhammed-instagram" />
-  </a>
-</p>
 
 ----
 
